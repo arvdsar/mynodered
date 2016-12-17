@@ -13,4 +13,5 @@ RUN npm install node-red-contrib-ifttt
 RUN npm install node-red-contrib-circadian-light
 RUN npm install node-red-contrib-chatbot
 RUN npm install node-red-node-watson
+RUN npm install thethingbox-node-timestamp
 
