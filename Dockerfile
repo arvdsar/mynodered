@@ -15,3 +15,4 @@ RUN npm install node-red-contrib-chatbot
 RUN npm install node-red-node-watson
 RUN npm install thethingbox-node-timestamp
 RUN npm install node-red-node-google
+RUN npm install node-red-contrib-influxdb
