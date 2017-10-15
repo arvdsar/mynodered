@@ -17,3 +17,5 @@ RUN npm install thethingbox-node-timestamp
 RUN npm install node-red-node-google
 RUN npm install node-red-contrib-influxdb
 RUN npm install node-red-contrib-https
+RUN npm install node-red-contrib-timecheck
+
