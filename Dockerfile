@@ -18,4 +18,6 @@ RUN npm install node-red-node-google
 RUN npm install node-red-contrib-influxdb
 RUN npm install node-red-contrib-https
 RUN npm install node-red-contrib-timecheck
+RUN npm install node-red-contrib-web-worldmap
+
 
