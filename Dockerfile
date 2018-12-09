@@ -7,7 +7,6 @@ RUN npm install node-red-node-prowl
 RUN npm install node-red-node-suncalc
 RUN npm install node-red-contrib-huemagic
 RUN npm install node-red-contrib-thingspeak
-RUN npm install node-red-node-weather-underground
 RUN npm install node-red-contrib-ifttt
 RUN npm install node-red-contrib-circadian-light
 RUN npm install node-red-contrib-chatbot
