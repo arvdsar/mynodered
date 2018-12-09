@@ -6,3 +6,6 @@ Now I can easily replace the container without loosing the configuration of Node
 
 Mount /data to a local folder /docker/nodered 
 
+Master branch uses TheThingbox.io Philips Hue node which I used for a long time. 
+Other-Hue branch uses Hue Magic node which offers more functionality and reduces complexity of my flows. This is currently the branch which I'm using.
+
