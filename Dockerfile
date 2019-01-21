@@ -31,3 +31,4 @@ RUN npm install node-red-contrib-time-range-switch
 RUN npm install node-red-contrib-timecheck
 RUN npm install node-red-contrib-traffic
 RUN npm install node-red-node-smooth
+RUN npm install node-red-contrib-aws
