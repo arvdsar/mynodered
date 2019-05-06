@@ -1,4 +1,4 @@
-FROM nodered/node-red-docker:v8
+FROM nodered/node-red-docker:v10
 RUN npm install node-red-contrib-blynk-ws
 RUN npm install node-red-contrib-ttn
 RUN npm install node-red-node-geofence
