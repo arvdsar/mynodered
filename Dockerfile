@@ -34,4 +34,6 @@ RUN npm install node-red-contrib-cast
 RUN npm install node-red-node-geohash
 RUN npm install node-red-node-smooth
 RUN npm install node-red-contrib-aws
+RUN npm install node-red-contrib-complicated
+
 
