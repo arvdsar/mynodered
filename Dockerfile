@@ -36,6 +36,6 @@ RUN npm install node-red-node-smooth
 RUN npm install node-red-contrib-aws
 RUN npm install node-red-contrib-complicated
 RUN npm install node-red-contrib-pi-hole-remote
-
-
+RUN npm install node-red-node-email
+RUN npm install node-red-node-random
 
