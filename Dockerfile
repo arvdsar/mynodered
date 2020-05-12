@@ -41,4 +41,6 @@ RUN npm install node-red-node-random
 RUN npm install node-red-contrib-homekit-bridged
 RUN npm install node-red-contrib-onvif
 RUN npm install node-red-contrib-samsung-tv-control
+RUN npm install node-red-contrib-bcrypt
+
 
