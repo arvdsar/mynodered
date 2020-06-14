@@ -42,5 +42,7 @@ RUN npm install node-red-contrib-homekit-bridged
 RUN npm install node-red-contrib-onvif
 RUN npm install node-red-contrib-samsung-tv-control
 RUN npm install node-red-contrib-bcrypt
+RUN npm install node-red-contrib-avr-yamaha
+
 
 
